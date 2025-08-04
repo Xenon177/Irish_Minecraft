@@ -1,6 +1,6 @@
 # Irish Minecraft
 
-Irish Minecraft is a Bedrock Edition addon that makes the game more Irish.
+Irish Minecraft is a Bedrock Edition addon that makes the game more Irish (specifically Corkonian).
 
 Features:
 - Hurleys and sliotars
