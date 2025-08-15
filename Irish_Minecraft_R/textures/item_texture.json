@@ -1,0 +1,15 @@
+{
+    "resource_pack_name": "Irish_Minecraft",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "oru:poitin": {
+            "textures": "textures/items/poitin"
+        },
+        "oru:stout": {
+            "textures": "textures/items/stout"
+        },
+		"oru:planning_permission": {
+            "textures": "textures/items/planning_permission"
+        }
+    }
+}
