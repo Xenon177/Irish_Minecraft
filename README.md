@@ -32,4 +32,4 @@ Feel free to post any feedback or suggestions in Issues or Discussions. If anyon
 
 # Acknowledgements
 
-Thanks to the Kawasaki Syndicate (iykyk) for ideas and feedback, and r/Cork giving me ideas for features. Giventofly's Pixelit sped up the making of textures and the Bedrock Wiki made it possible to get the BP working properly.
+Thanks to some members of the Kawasaki Syndicate (iykyk) for ideas and feedback, and r/Cork giving me ideas for features. Giventofly's Pixelit sped up the making of textures and the Bedrock Wiki made it possible to get the BP working properly.
