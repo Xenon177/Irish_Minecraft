@@ -1,0 +1,28 @@
+{
+    "format_version": "1.20",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "oru:planning_permission"
+      },
+
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        " N ",
+        "NPN",
+        " N "
+      ],
+      "key": {
+        "P": {
+          "item": "minecraft:paper"
+        },
+        "N": {
+          "item": "minecraft:netherite_ingot"
+        }
+      },
+      "result": {
+        "item": "oru:planning_permission"
+      }
+    }
+  }
+  

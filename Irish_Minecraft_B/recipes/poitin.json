@@ -1,0 +1,30 @@
+{
+    "format_version": "1.21.90",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "oru:poitin"
+      },
+
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "P",
+        "W"
+      ],
+      "key": {
+        "P": {
+          "item": "minecraft:potato"
+        },
+        "W": {
+          "item": "minecraft:potion",
+          "data": 0
+        }
+      },
+      "result": {
+        "item": "oru:poitin"
+      },
+       "unlock": {
+    "context": "AlwaysUnlocked"
+      }
+    }
+  }
