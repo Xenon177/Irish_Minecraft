@@ -8,12 +8,12 @@ Features:
 - Irish food
 - Paintings of Irish scenery
 - Skeletons with fake tan
-- GAA villagers with Cork accents
+- GAA villagers
 - Gardaí iron golems
 - Potions in pint glasses
 - Bus Éireann minecarts
 - Bord Bía approved beef
-- New pillager outfit
+- New illager outfits
 - Poitín and stout (behaviour pack)
 - Planning permission (BP)
 
