@@ -58,5 +58,6 @@ item.bread.name=Cuthbert's Bread	#
 
 item.cooked_porkchop.name=Cooked Sausages	#
 item.porkchop_cooked.name=Cooked Sausages	#
+
 item.porkchop.name=Clonakilty Sausages	#
-item.myname:planning_permission=Planning Permission
+item.oru:planning_permission=Planning Permission #
