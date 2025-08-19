@@ -19,8 +19,7 @@ Features:
 
 # Installation
 
-Download the latest .zip file  and change the extension to ".mcpack".
-Double click the mcpack to import it into Minecraft.
+Download the latest .mcpack and double click it to import it into Minecraft.
 
 # Dependencies
 
